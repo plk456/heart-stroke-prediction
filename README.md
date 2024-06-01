@@ -1,4 +1,5 @@
 bs4 (BeautifulSoup):
+
 The code shows how to do web scraping dynamic content pages generated from Javascript using Python.
 
 NOTE: 
