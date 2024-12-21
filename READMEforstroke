@@ -2,3 +2,9 @@ THE CODE TO PREDICTE WHEN WILL A PERSON WILL GET STROKE OR NOT ACCORDING TO THE 
 
 you can download the (CSV) dataset from the kaggle
 
+or 
+
+you can scrape the dataset from website by learning the basics of webscraping that i have provided very basis of code in scrape.py file and
+you can see the README file for better understanding
+
+
