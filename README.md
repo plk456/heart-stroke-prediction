@@ -4,7 +4,6 @@ The code shows how to do web scraping dynamic content pages generated from Javas
 
 NOTE: 
 
-This project was created just for educational proposes.
 Web Scraping is allowed and Web Scraping is not allowed for some websites.
 You can see whether the WEBSITE allows webscraping or not by checking the website's "robots.txt" file   "https://example.com/robots.txt".
 
