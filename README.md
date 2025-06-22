@@ -40,15 +40,18 @@ Age, gender, blood pressure, cholesterol levels, BMI, glucose levels, smoking st
 Other clinical biomarkers (e.g., hypertension, heart disease history)
 
 ✅ Predictions:
+
 Probability score (0-100%) of stroke risk
 Classification (High Risk / Low Risk)
 
 ✅ User Interface:
+
 Interactive sliders/form inputs
 Visualization (risk score meter, feature importance)
 Responsive design (mobile & desktop)
 
 ✅ Tech Stack:
+
 ML: Scikit-learn 
 Frontend: Streamlit
 
