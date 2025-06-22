@@ -53,6 +53,7 @@ Responsive design (mobile & desktop)
 ✅ Tech Stack:
 
 ML: Scikit-learn 
+
 Frontend: Streamlit
 
 ```bash
