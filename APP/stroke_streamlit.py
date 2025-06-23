@@ -78,8 +78,11 @@ if st.button('Predict'):
         smoking_status
     ]])
     
-    # Make prediction
     prediction = model.predict(input_data)
     
-    # Display result
+    prediction_proba = model.predict_proba(input_data)
+    
+    stroke_probability = prediction_proba[0][1] * 100  # Probability of class 1 (High Risk)
+    
+    st.write(f'Probability of stroke: {stroke_probability:.2f}%')
     st.write(f'Prediction: {"High Risk" if prediction[0] == 1 else "Low Risk"}')
