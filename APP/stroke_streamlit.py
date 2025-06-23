@@ -4,7 +4,7 @@ import numpy as np
 import os
 
 try:
-    with open('model', 'rb') as f:
+    with open('Models\\model', 'rb') as f:
         model=pickle.load(f)
 except Exception as e:
     st.error(f"Error loading model: {e}")
